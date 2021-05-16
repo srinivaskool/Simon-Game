@@ -1,15 +1,15 @@
-# Simon-Game
+# Simon Game
  A Memory game called Simon is built using Javascript and it has 3 levels to choose. 
 
 
-[Live Demo](https://colab.research.google.com/drive/1mujouGGpE88xGXC0pV7ww5U0bV7Abjyg?usp=sharing)
+[Live Demo](https://srinivaskool.github.io/Simon-Game/)
 
 ---
 
 ### Table of Contents
 
 - [Description](#description)
-- [Results](#results)
+- [Game Image](#Expert-Level-Game-Image)
 - [Project Layout](#project-layout)
 - [References](#references)
 - [Author Info](#author-info)
@@ -20,6 +20,7 @@
 
 <br>
 The Simon game is the exciting game of lights and sounds in which players must repeat random sequences of lights by pressing the colored pads in the correct order. It's fast-paced play, with lights and sounds that can challenge you. This is automatic game in which the computer shows you a flash on the color.
+<br>
 <br>
 <p align="center">
   <img  src="select.PNG" > 
@@ -40,7 +41,7 @@ Clone the repository into a folder and run the `index.html` to start the game.
 
 ---
 
-## Expert Game Image
+## Expert Level Game Image
 
   <br/>
 
